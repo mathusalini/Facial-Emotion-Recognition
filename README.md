@@ -55,5 +55,22 @@ So we:
 - Processed image displayed in Colab output
 
 ---
+## 🎓 Learning Outcomes
 
-## 🧠 System Architecture
+After completing this project, you will understand:
+
+- Browser-to-Python communication  
+- Webcam handling in cloud environments  
+- PyTorch model loading on CPU  
+- Deep learning inference pipeline  
+- Real-time computer vision workflow  
+
+---
+
+## 💡 Future Improvements
+
+- Convert into a Streamlit Web Application  
+- Add live video streaming support  
+- Deploy on a cloud server  
+- Use GPU acceleration  
+- Add emotion confidence score visualization  
